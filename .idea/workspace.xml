@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42651ddd-c157-4ce8-affa-a888a5ee8dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/520.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji_bixin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji_kelian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/music_note_big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-2.0.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jweixin-1.2.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/start_onlyyou.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/theme_common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/typed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +63,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -109,18 +94,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583505078277</updated>
-      <workItem from="1583505079760" duration="1888000" />
+      <workItem from="1583505079760" duration="2209000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1583513634137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583513634137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1583513079340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583513079340" />
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1583513630944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583513630944" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1583513086158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,9 +130,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583513070015" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583513129219">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583513925562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583513129219" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583513925562" />
   </component>
 </project>
